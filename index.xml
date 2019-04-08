@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anthony Grimes</title>
+    <title>Hi! My Name is Anthony Grimes.</title>
     <link>https://anthonygrimes.co.uk/</link>
-    <description>Recent content on Anthony Grimes</description>
+    <description>Recent content on Hi! My Name is Anthony Grimes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -19,7 +19,7 @@
       
       <guid>https://anthonygrimes.co.uk/about/</guid>
       <description>Who is Anthony Grimes? Hi! My name is Anthony Grimes and I&amp;rsquo;m currently a software engineer at JP Morgan Chase &amp;amp; Co. working within CTC (Cybersecurity &amp;amp; Technology Controls).
-Please feel free to explore my blog posts, check our my LinkedIn, Github or send me a email!</description>
+Please feel free to explore my blog posts, check out my LinkedIn, Github or send me an email!</description>
     </item>
     
     <item>
