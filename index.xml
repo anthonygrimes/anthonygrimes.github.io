@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony Grimes</title>
+    <link>https://anthonygrimes.co.uk/</link>
+    <description>Recent content on Anthony Grimes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anthonygrimes.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://anthonygrimes.co.uk/about/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://anthonygrimes.co.uk/about/</guid>
+      <description>Who is Anthony Grimes? Hi! My name is Anthony Grimes and I&amp;rsquo;m currently a software engineer at JP Morgan Chase &amp;amp; Co. working within CTC (Cybersecurity &amp;amp; Technology Controls).
+Please feel free to explore my blog posts, check our my LinkedIn, Github or send me a email!</description>
+    </item>
+    
+    <item>
+      <title>Beginnings</title>
+      <link>https://anthonygrimes.co.uk/2019/04/08/beginnings/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://anthonygrimes.co.uk/2019/04/08/beginnings/</guid>
+      <description>A little late to the party, but here nevertheless, I am finally taking anthonygrimes.co.uk to the next phase.
+Gone are the static files, bye bye to html and to editing .scss files or manually creating directories, gone are all the headaches and timesinks of the old static webpage and hello to Hugo.
+What is Hugo? Hugo is a beautifully simple framework for building websites. Just like this one!
+Powerful, extensible and as easy as selecting a theme and going.</description>
+    </item>
+    
+  </channel>
+</rss>
